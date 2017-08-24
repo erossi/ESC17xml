@@ -11,6 +11,7 @@
     <day_change>09:00:00</day_change>
     <timeslot_duration>00:05:00</timeslot_duration>
   </conference>
+
   <day index="1" date="2017-08-30">
     <room name="Talk">
       <event id="17504">
@@ -68,33 +69,70 @@
       </event>
     </room>
   </day>
+
   <day index="2" date="2017-08-31">
     <room name="Talk">
-      <event id="0002">
-        <start>09:30</start>
-        <duration>00:25</duration>
+      <event id="17501">
+        <start>18:30</start>
+        <duration>01:30</duration>
         <room>Talk</room>
 	<slug />
-        <title>ESC 2017</title>
+        <title>Stato dell'arte della progettazione con strumenti Opensource</title>
         <subtitle/>
 	<track />
 	<type />
         <language/>
-        <abstract>&lt;p&gt;ESC 17 talk.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;Welcome to ESC 2017!&lt;/p&gt;</description>
+	<abstract />
+	<description>
+		Una panoramica puntuale sulle soluzioni CAD/CAE Open Source: stato dell'arte, pregi, limiti e prospettive. Le soluzioni proposte saranno tutte di tipo professionale e multi-piattaforma, ovvero disponibili allo stesso modo per tutti i sistemi operativi più diffusi (Linux, Mac, Windows).
+	</description>
         <persons>
-          <person id="1">ESC staff</person>
+          <person id="17501">Giovanni Longo</person>
+        </persons>
+	<links />
+      </event>
+      <event id="17502">
+        <start>22:00</start>
+        <duration>01:30</duration>
+        <room>Talk</room>
+	<slug />
+	<title>FreeCAD for Hackers & Makers: stumenti e mods</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		FreeCAD è il "coltellino svizzero" delle piattaforme di progettazione 3D parametriche, in questo intervento faremo una panoramica su tutti gli strumenti che mette a disposizione in ambito di fabbricazione digitale e daremo uno sguardo alle infinite possibilità di personalizzazione e hacking.
+	</description>
+        <persons>
+          <person id="17501">Giovanni Longo</person>
         </persons>
 	<links />
       </event>
     </room>
     <room name="LAB">
-      <event id="1002">
-        <start>16:00</start>
-        <duration>04:00</duration>
+      <event id="2001">
+        <start>10:00</start>
+        <duration>03:00</duration>
         <room>LAB</room>
 	<slug />
-        <title>Soldering, Assemblaggio 3D-Printer RepRap</title>
+        <title>Soldering, Arduino, Assemblaggio 3D-Printer RepRap</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="2002">
+        <start>15:00</start>
+        <duration>03:00</duration>
+        <room>LAB</room>
+	<slug />
+        <title>Soldering, 3D-Printing, Browser Extensions, A-Frame</title>
         <subtitle/>
 	<track />
 	<type />
@@ -106,33 +144,70 @@
       </event>
     </room>
   </day>
+
   <day index="3" date="2017-09-01">
     <room name="Talk">
-      <event id="0003">
-        <start>09:30</start>
-        <duration>00:25</duration>
+      <event id="17707">
+        <start>12:00</start>
+        <duration>00:30</duration>
         <room>Talk</room>
 	<slug />
-        <title>ESC 2017</title>
+        <title>Pi-hole: A black hole for Internet advertisements</title>
         <subtitle/>
 	<track />
 	<type />
         <language/>
-        <abstract>&lt;p&gt;ESC 17 talk.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;Welcome to ESC 2017!&lt;/p&gt;</description>
+	<abstract />
+	<description>
+		Pi-Hole è un progetto nasce con l’intento di bloccare la pubblicità a livello di DNS e incorpora anche una DNS Cache. Un progetto nato per Raspberri Pi ma che può essere installato su qualsiasi altra distribuzione Debian Like ha il vantaggio di bloccare tutto il traffico prodotto dagli ADS nella tua rete eliminando quindi l’utilizzo di plugin per il browser come AdBlock, uBlock e la possibilità di usare i filtri anche nei dispositivi mobile senza effettuare modifiche dedicate. Basti a pensare che su iOS o Android è possibile bloccare la pubblicità nei principali browser ma all’interno delle applicazioni bisognerebbe avere i permessi di root per eliminare le pubblicità, con Pi-Hole diventa tutto più facile. Pi-Hole è facilissimo da installare, permette di personalizzare i server DNS e ha un comodo pannello di controllo web dal quale è possibile visualizzare il totale delle richieste DNS, le pubblicità bloccate ma ovviamente anche personalizzare la Whitelist e Blacklist. Inoltre sul sito ufficiale vi sono diverse guide e personalizzazioni. È un progetto Open Source, disponibile su GitHub.
+	</description>
         <persons>
-          <person id="1">ESC staff</person>
+          <person id="17707">Fabio "Ryuw" Carletti</person>
+        </persons>
+	<links />
+      </event>
+      <event id="1526">
+        <start>12:30</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>Hardening Debian buster with grsecurity</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		Grsecurity is an extensive security enhancement to the Linux kernel that defends against a wide range of security threats through intelligent access control, memory corruption-based exploit prevention, and a host of other system hardening that generally require no configuration.
+	</description>
+        <persons>
+          <person id="17707">Fabio "Ryuw" Carletti</person>
         </persons>
 	<links />
       </event>
     </room>
     <room name="LAB">
-      <event id="1003">
-        <start>16:00</start>
-        <duration>04:00</duration>
+      <event id="3001">
+        <start>10:00</start>
+        <duration>03:00</duration>
         <room>LAB</room>
 	<slug />
-        <title>Soldering, Assemblaggio 3D-Printer RepRap</title>
+        <title>Soldering, Arduino 101, 3D-Printing</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="3002">
+        <start>15:00</start>
+        <duration>05:00</duration>
+        <room>LAB</room>
+	<slug />
+        <title>Soldering, KiCAD EDA, 3D Printing</title>
         <subtitle/>
 	<track />
 	<type />
@@ -144,8 +219,10 @@
       </event>
     </room>
   </day>
+
   <day index="4" date="2017-09-02">
   </day>
+
   <day index="5" date="2017-09-03">
   </day>
 </schedule>
