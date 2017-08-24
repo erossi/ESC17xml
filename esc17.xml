@@ -13,20 +13,20 @@
   </conference>
   <day index="1" date="2017-08-30">
     <room name="Talk">
-      <event id="0001">
-        <start>09:30</start>
-        <duration>00:25</duration>
+      <event id="17504">
+        <start>18:30</start>
+        <duration>01:30</duration>
         <room>Talk</room>
 	<slug />
-        <title>Welcome to FOSDEM 2017</title>
+        <title>Inkscape: Grafica 2D vettoriale con Software Libero</title>
         <subtitle/>
 	<track />
 	<type />
         <language/>
-        <abstract>&lt;p&gt;FOSDEM welcome and opening talk.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;Welcome to FOSDEM 2017!&lt;/p&gt;</description>
+        <abstract>&lt;p&gt;Inkscape è un software libero di grafica vettoriale basato sul formato Scalable Vector Graphics (SVG).&lt;/p&gt;</abstract>
+        <description>&lt;p&gt;Inkscape è un software libero di grafica vettoriale basato sul formato Scalable Vector Graphics (SVG).&lt;/p&gt;</description>
         <persons>
-          <person id="1">FOSDEM Staff</person>
+          <person id="17504">Stefano Branca</person>
         </persons>
 	<links />
       </event>
