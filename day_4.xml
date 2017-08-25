@@ -1,2 +1,164 @@
   <day index="4" date="2017-09-02">
+    <room name="Talk">
+      <event id="17718">
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>Safe UsbKey Project</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		 progetto, completamente opensource e usando un Raspberry PIzeroW, ha lo scopo di proteggere gli utenti da Plug'n'Cry selvaggio di pennette USB trovate in giro o limitare i danni dal collegare pennete su sistemi senza antivirus.
+	</description>
+        <persons>
+          <person id="15">Andrea De Gaetano</person>
+        </persons>
+	<links />
+      </event>
+    </room>
+    <room name="LAB">
+      <event id="3001">
+        <start>10:00</start>
+        <duration>03:00</duration>
+        <room>LAB</room>
+	<slug />
+        <title>Soldering, Arduino 101, 3D-Printing</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="3002">
+        <start>15:00</start>
+        <duration>05:00</duration>
+        <room>LAB</room>
+	<slug />
+        <title>Soldering, KiCAD EDA, 3D Printing</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="3003">
+        <start>20:00</start>
+        <duration>02:00</duration>
+        <room>LAB</room>
+	<slug />
+        <title>MO-Sbuscia Volume-1</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+    </room>
+    <room name="Kitchen">
+      <event id="4101">
+        <start>09:00</start>
+        <duration>02:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Colazione</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="4102">
+        <start>13:00</start>
+        <duration>02:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Pranzo e Grande Foto di Gruppo (Beta)</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="4103">
+        <start>16:00</start>
+        <duration>02:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Merenda</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="4104">
+        <start>19:00</start>
+        <duration>01:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Aperitivo</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="4105">
+        <start>20:00</start>
+        <duration>03:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Cena e Compleanno del Mala</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+    </room>
+    <room name="General">
+      <event id="4201">
+        <start>00:00</start>
+        <duration>04:00</duration>
+        <room>General</room>
+	<slug />
+        <title>Sleeping Hackers and Overnight Fun</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+    </room>
   </day>
