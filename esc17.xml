@@ -728,6 +728,385 @@
     </room>
   </day>
   <day index="4" date="2017-09-02">
+    <room name="Talk">
+      <event id="17718">
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>Safe UsbKey Project</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		 progetto, completamente opensource e usando un Raspberry PIzeroW, ha lo scopo di proteggere gli utenti da Plug'n'Cry selvaggio di pennette USB trovate in giro o limitare i danni dal collegare pennete su sistemi senza antivirus.
+	</description>
+        <persons>
+          <person id="15">Andrea De Gaetano</person>
+        </persons>
+	<links />
+      </event>
+      <event id="17722">
+        <start>11:30</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>Arduino for Zabbix</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		Come implementare sensori aggiuntivi con Arduino per Zabbix.
+	</description>
+        <persons>
+          <person id="10">Fabio "fabioFVZ" Cazzin</person>
+        </persons>
+	<links />
+      </event>
+      <event id="17727">
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>Open business model di Facebook Tracking Exposed</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		Nello sviluppo di un progetto opensource è importante creare dei modelli concettuale sia di business che di gestione. L’esempio di Fbtrex serve ad esporre criticità superate e da superare associate ai modelli che ne hanno garantito il coinvolgimento di più persone e l’armonizzazione con soggetti esterni che potrebbero esserne in conflitto.
+	</description>
+        <persons>
+          <person id="16">Luca Corsato</person>
+        </persons>
+	<links />
+      </event>
+      <event id="17728">
+        <start>12:30</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>Facebook Tracking Exposed un anno dopo</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		Ad un anno di distanza dall’avvio del progetto, ora facebook.tracking.exposed si presta a diventare una metodologia per l’analisi degli algoritmi black box. L'ambizioso scopo di analizzare l'algoritmo di facebook ha confermato quante variabili ci sono in gioco. Grazie ad esperimenti di vizualizzare abbiamo capito dei trend interessanti e visto il nostro stesso "bias", il pregiudizio insito nel codice che raccoglie i dati. Anche il racconto che facciamo del progetto (iniziato come "vedi la tua filter bubble") ora è "vedi la tua dieta informativa". Come spesso avviene per progetti che mescolano tecnologia e critica, il problema più complesso non è stato il codice, ma spiegare il progetto. A noi interessa sapere come gli algoritmi funzionano, ma per farlo serve una massa di utenti a supportarci, e a questi utenti magari non importa nulla degli algoritmi. Come sì fa? Cosa gli si da? A chi ci rivolgiamo (ad analisti o ad utenti-utonti)? In questo talk parleremo di successi e problemi nel primo anno di vita del progetto.
+	</description>
+        <persons>
+          <person id="17">Claudio "vecna" Agosti</person>
+        </persons>
+	<links />
+      </event>
+      <event id="17505">
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>PHP Magic</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		Un framework che sto facendo con uno strano design pattern.
+	</description>
+        <persons>
+	  <person id="18">Epto</person>
+        </persons>
+	<links />
+      </event>
+      <event id="17721">
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>Immagini digitali: verità e bugie</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		Se si vede in una foto, perché dovrei non credergli? In un'epoca di fake news, contenuti artefatti, e frodi cibernetiche l'analisi forense delle immagini può aiutare ad accertare la veridicità di un'immagine digitale.
+	</description>
+        <persons>
+          <person id="19">Alessandro "Jekil" Tanasi</person>
+        </persons>
+	<links />
+      </event>
+      <event id="17702">
+        <start>15:00</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>Automatizzare la malware analysis con Node.js, Docker and RabbitMQ</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		L'analisi dei dropper in JavaScript per Windows è un processo lungo e laborioso. Diamo un'occhiata a questo processo, vediamo come renderlo più veloce tramite l'emulazione in Node.js e come automatizzarlo del tutto con Docker e RabbitMQ. il tutto con un occhio di riguardo alla sicurezza.
+	</description>
+        <persons>
+          <person id="20">Giulio "Capacitor Set" Muscarello</person>
+        </persons>
+	<links />
+      </event>
+      <event id="17706">
+        <start>15:30</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>Machine Learning Spam Filter 101</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		Uno Spam Filter è un filtro che predice la classificazione di una email e blocca o meno il risultato. Il talk illustrerà le tecniche di machine learning che ci permettono di inferire questo risultato con esempi e teoria. Tratterò in cosa consiste il Machine Learning, cosa è uno Spam Filter, come viene fatto il riconoscimento delle caratteristiche delle email, su quali caratteristiche si basa il filtro e come viene riconosciuto.
+	</description>
+        <persons>
+          <person id="21">Diego Luca "Joxer" Candido</person>
+        </persons>
+	<links />
+      </event>
+      <event id="17717">
+        <start>17:00</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>Costruisci la Realtà Virtuale sul Web con A-Frame</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		Costruire metaversi nel web compatibili con tutti i più moderni dispositivi è facilissimo se conosci questa potente libreria di Mozilla dedicata alla WebVR. Partecipando a questo talk e al relativo laboratorio tornerai a casa con le capacità necessarie a costruire mondi virtuali nel tuo browser senza fatica, partendo da semplici nozioni di HTML.
+	</description>
+        <persons>
+          <person id="22">Eugenio Petullà</person>
+        </persons>
+	<links />
+      </event>
+      <event id="17716">
+        <start>17:30</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>Join Mozilla we have homemade Pasta</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		Cos'è Mozilla, Mozilla Italia e la sua missione.
+	</description>
+        <persons>
+          <person id="23">Daniele "mte90" Scasciafratte</person>
+        </persons>
+	<links />
+      </event>
+      <event id="17703">
+        <start>18:00</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>OWASP for Developers and Testers</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		Il talk introdurrà le tematiche di Software Security e come OWASP (The Open Web Application Security Project) può supportare chi sviluppa applicazioni a realizzare software sempre più sicuro. Saranno mostrati alcuni approcci non corretti al problema e quali sono le linee guida e tool per il secure development.
+	</description>
+        <persons>
+          <person id="24">Matteo Meucci</person>
+        </persons>
+	<links />
+      </event>
+      <event id="17704">
+        <start>18:30</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>OWASP IOT Security</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		Sarà affrontata un'introduzione agli aspetti di sicurezza delle IoT e della sicurezza delle applicazioni basate su IoT. Verranno presentate vulnerabilità delle Internet of Things e discussi alcuni dei maggiori incidenti e problematiche accaduti negli ultimi 2 anni.
+	</description>
+        <persons>
+          <person id="25">Giorgio Fedon</person>
+        </persons>
+	<links />
+      </event>
+      <event id="17701">
+        <start>23:00</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>Car Hacking: getting started with DIY Level-2 Autonomous Driving</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		Con questo talk esploriamo lo stato dell'arte delle applicazioni Open Source relative alla guida autonoma degli autoveicoli: dalla release della piattaforma comma.ai al recente progetto OSCC.
+	</description>
+        <persons>
+          <person id="26">Cristiano "MastroGippo" Griletti</person>
+        </persons>
+	<links />
+      </event>
+      <event id="17714">
+        <start>23:30</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>Hacking Ants: formiche come animali domestici</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		Anziché sterminare queste povere bestie, perchè invece non impariamo ad allevarle? Insetti eusociali molto interessanti, ma soprattutto hackerabili!
+	</description>
+        <persons>
+          <person id="27">Emanuele Santellani</person>
+        </persons>
+	<links />
+      </event>
+    </room>
+    <room name="LAB">
+      <event id="4001">
+        <start>11:00</start>
+        <duration>08:00</duration>
+        <room>LAB</room>
+	<slug />
+        <title>MO-Sbuscia Volume-2, Soldering, Arduino 101, 3D-Printing, KiCAD</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+    </room>
+    <room name="Kitchen">
+      <event id="4101">
+        <start>09:00</start>
+        <duration>02:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Colazione</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="4102">
+        <start>13:00</start>
+        <duration>02:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Pranzo e Grande Foto di Gruppo (Beta)</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="4103">
+        <start>16:00</start>
+        <duration>02:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Merenda</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="4104">
+        <start>19:00</start>
+        <duration>01:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Aperitivo</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="4105">
+        <start>20:00</start>
+        <duration>03:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Cena e Compleanno del Mala</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+    </room>
+    <room name="General">
+      <event id="4201">
+        <start>00:00</start>
+        <duration>04:00</duration>
+        <room>General</room>
+	<slug />
+        <title>Sleeping Hackers and Overnight Fun</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+    </room>
   </day>
   <day index="5" date="2017-09-03">
   </day>
