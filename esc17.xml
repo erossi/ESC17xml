@@ -9,7 +9,7 @@
     <end>2017-09-03</end>
     <days>5</days>
     <day_change>00:00:00</day_change>
-    <timeslot_duration>00:30:00</timeslot_duration>
+    <timeslot_duration>00:10:00</timeslot_duration>
   </conference>
 
   <day index="1" date="2017-08-30">
@@ -148,10 +148,10 @@
       </event>
       <event id="1203">
         <start>23:30</start>
-        <duration>04:30</duration>
+        <duration>00:30</duration>
         <room>General</room>
 	<slug />
-        <title>Sleeping Hackers e Overnight Fun</title>
+        <title>Sleeping Hackers and Overnight Fun</title>
         <subtitle/>
 	<track />
 	<type />
@@ -298,7 +298,23 @@
 	<links />
       </event>
     </room>
-    <room name="General" />
+    <room name="General">
+      <event id="2201">
+        <start>00:00</start>
+        <duration>04:00</duration>
+        <room>General</room>
+	<slug />
+        <title>Sleeping Hackers and Overnight Fun</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+    </room>
   </day>
   <day index="3" date="2017-09-01">
     <room name="Talk">

@@ -133,5 +133,21 @@
 	<links />
       </event>
     </room>
-    <room name="General" />
+    <room name="General">
+      <event id="2201">
+        <start>00:00</start>
+        <duration>04:00</duration>
+        <room>General</room>
+	<slug />
+        <title>Sleeping Hackers and Overnight Fun</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+    </room>
   </day>
