@@ -133,36 +133,4 @@
 	<links />
       </event>
     </room>
-    <room name="General">
-      <event id="2201">
-        <start>00:00</start>
-        <duration>01:00</duration>
-        <room>General</room>
-	<slug />
-        <title>Presentazione e Apertura CTF -ESC CTF Team</title>
-        <subtitle/>
-	<track />
-	<type />
-        <language/>
-	<abstract />
-	<description></description>
-	<persons />
-	<links />
-      </event>
-      <event id="2202">
-        <start>01:00</start>
-        <duration>03:00</duration>
-        <room>General</room>
-	<slug />
-        <title>Sleeping Hackers and Overnight Fun</title>
-        <subtitle/>
-	<track />
-	<type />
-        <language/>
-	<abstract />
-	<description></description>
-	<persons />
-	<links />
-      </event>
-    </room>
   </day>
