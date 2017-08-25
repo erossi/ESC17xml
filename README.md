@@ -1,6 +1,9 @@
 # ESC17xml
 EndSummerCamp Pentabarf XML
 
+### URL
+https://raw.githubusercontent.com/erossi/ESC17xml/master/esc17.xml
+
 ### About Rooms
 
 These isn't any room after all, but
