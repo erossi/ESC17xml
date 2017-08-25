@@ -76,6 +76,196 @@
         </persons>
 	<links />
       </event>
+      <event id="17T25">
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>Ask Ubuntu: aiutare anche senza saper programmare</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		Ask Ubuntu è un sito Q&amp;A (domanda e risposta) che raccoglie gli utenti di questa popolare distribuzione. Tramite un sistema collaborativo ed autogestito, tutti i partecipanti donano il proprio contributo per aiutarsi a vicenda e risolvere problemi o dubbi relativi all'uso di Ubuntu, portando beneficio a tutta la comunità. 
+	</description>
+        <persons>
+          <person id="5">Andrea "lazza" Lazzarotto</person>
+        </persons>
+	<links />
+      </event>
+      <event id="17T13">
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>Presentazione libro di testo sui Sistemi Embedded</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		Presentazione in anteprima del libro di testo sui Sistemi Embedded, scritto insieme ad Alexjan Carraturo, che sarà usato per l'omonimo corso del prossimo anno accademico all'Università Statale di Milano; il libro verrà stampato ma sarà anche distribuibile liberamente con licenza Creative Commons.
+	</description>
+        <persons>
+          <person id="6">Andrea Trentini</person>
+        </persons>
+	<links />
+      </event>
+      <event id="17T05">
+        <start>18:00</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>Gadgetbridge DMCA takedown: a Post-Mortem</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		Gadgetbridge è un progetto free software nato nel 2015 per liberare i wearable dagli applicativi proprietari forniti dai vendor. Nel giugno 2017 è stato oggetto di una DMCA takedown request su github che ne ha causato l'oscuramento per circa un mese. Ogni progetto su github è potenzialmente a rischio, in questo talk verrà spiegato quello che è successo e quello che il team ha imparato dalla gestione di questa situazione fotunatemente ormai risolta.
+	</description>
+        <persons>
+          <person id="7">Daniele Gobbetti</person>
+        </persons>
+	<links />
+      </event>
+      <event id="17T26">
+        <start>18:30</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>Captatori informatici nel processo penale</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		Da oltre un decennio si parla di trojan horse "di Stato", e da altrettanto tempo questi sistemi sono utilizzati per le indagini e le operazioni di intelligenti, educatamente ribattezzati "captatori informatici", "equipment interference" e simili. La legge di riforma del codice penale e del processo penale, cd. "legge Orlando" (L. n. 103/2017) contiene un comma (precisamente il comma 84 dell'art. 1) che delega il Governo alla regolamentazione delle "intercettazioni di comunicazioni o conversazioni tra presenti mediante immissione di captatori informatici in dispositivi elettronici portatili". Cosa cambierà? Quali saranno le ipotesi in cui questi strumenti sono utilizzabili? Potranno essere disposte "perquisizioni a distanza" Quali saranno i limiti? E quali le garanzie per la difesa (e i suoi consulenti)? Che scenari si prospettano?
+	</description>
+        <persons>
+          <person id="8">Giovanni Battista Gallus</person>
+        </persons>
+	<links />
+      </event>
+      <event id="17T10">
+        <start>19:00</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>StrongPity: Italia sotto attacco!</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		Nell'estate 2016 il malware APT StrongPity si è diffuso in Italia attraverso il software WinRar. Il talk andrà ad analizzare in modo approfondito le peculiarità di questo APT in grado di rubare le credenziali di accesso, monitorare le attività ed eseguire attacchi DDoS, e si cercherà di capire quale stato lo sponsorizzi.
+	</description>
+        <persons>
+          <person id="9">Gianfranco Tonello</person>
+        </persons>
+	<links />
+      </event>
+      <event id="17T23">
+        <start>19:30</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>SDR la Radio fatta in "Software"</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		Nel campo delle telecomunicazioni ci si sta sempre piu' spostando dalla radio fatta di componenti elettronici alla radio fatta via software: "Software Defined Radio". Esploriamo questa tecnologia.
+	</description>
+        <persons>
+          <person id="10">Fabio "fabioFVZ" Cazzin</person>
+        </persons>
+	<links />
+      </event>
+      <event id="17T11">
+        <start>22:00</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>Artwork Procedurali per Videogiochi Procedurali: Brogue</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		Brogue è un videogioco rilasciato su licenza libera che si è ritagliato una nutrita nicchia di giocatori, anche fuori da quelli che normalmente apprezzano i cosiddetti roguelike. Complice di questo è la sua estetica ASCII: funzionale, ma in grado di immergere il giocatore attraverso i suoi dettagli.La talk presenterà il lavoro su un tile-set per il gioco ispirato al sistema di emoji Noto, che unisca la riconoscibilità dei caratteri a ridotte dimensioni con la possibilità di ri-combinare e animare gli elementi che le compongono.
+	</description>
+        <persons>
+          <person id="11">Fabio "filotassi" Bernardi</person>
+        </persons>
+	<links />
+      </event>
+      <event id="17T15">
+        <start>22:30</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>Controllo di un planetario con Raspberry PI con UI web da smartphone</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		A Marghera (VE), presso il museo della radio “P. Ruggero”, c’è un planetario elettromeccanico costruito nel 1984 e successivamente più volte restaurato/modernizzato, che ogni anno ospita un gran numero di visitatori e di scolaresche. Nel primo restauro del 2000 la macchina è stata per la prima volta automatizzata, introducendo dei microcontrollori per il controllo di assi e luci, ed un PC MS-DOS per gestire le sequenze. Da un anno circa è disponibile un nuovo sistema di controllo basato su Raspberry PI, che sostituisce il PC e permette la gestione wireless da smartphone con una interfaccia web, pertanto senza necessità di “app” installate. La presentazione illustra l’architettura del sistema e le soluzioni tecniche adottate.
+	</description>
+        <persons>
+          <person id="12">Roberto Visentin</person>
+        </persons>
+	<links />
+      </event>
+      <event id="17T19">
+        <start>23:00</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>Gestisci il tuo hackerspace con un ERP Open Source Tryton</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		Tryton è un framework scritto in python per La creazione di software ERP (Enterprise Resource Planning). La grande disposizione di moduli prefatti e la facilità di creazione di moduli personalizzati permette di adattarsi alle esigenze dei piccoli hackespace, come le piccole/medie/grandi aziende. Nel talk si discuterà di come instanziare un server di Tryton, installare moduli e come creare il primo modulo personalizzato.
+	</description>
+        <persons>
+          <person id="13">Luca "wifasoi" Cristaldi</person>
+        </persons>
+	<links />
+      </event>
+      <event id="17T20">
+        <start>23:30</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>Bootstrapping a Hackerspace: Infrastruttura</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		In questo talk parleremo dei modi in cui l'infrastruttura (servizi online e interni) facilita la collaborazione nello spazio e lo scambio di informazioni tra i soci. Seguirà una panoramica dell'infrastruttura interna ed esterna di Mittelab, elencando i servizi e come vengono utilizzati. Ci concentreremo inoltre sull'aspetto dell'autenticazione, e di come gestirla in maniera semplice per l'utente e sicura per gli amministratori.
+	</description>
+        <persons>
+          <person id="14">Aljaž "g5pw" Srebrnič</person>
+        </persons>
+	<links />
+      </event>
     </room>
     <room name="LAB">
       <event id="3001">
@@ -99,6 +289,21 @@
         <room>LAB</room>
 	<slug />
         <title>Soldering, KiCAD EDA, 3D Printing</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="3003">
+        <start>20:00</start>
+        <duration>02:00</duration>
+        <room>LAB</room>
+	<slug />
+        <title>MO-Sbuscia Volume-1</title>
         <subtitle/>
 	<track />
 	<type />
