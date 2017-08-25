@@ -1109,6 +1109,155 @@
     </room>
   </day>
   <day index="5" date="2017-09-03">
+    <room name="Talk">
+      <event id="17709">
+        <start>00:00</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>Hacking Like a Virgin: Ringobongo LTD Annual Report</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		Enjoy the RingoBongo LTD Annual Report.
+	</description>
+        <persons>
+          <person id="28">Francesco "ascii" Ongaro &amp; Friends</person>
+        </persons>
+	<links />
+      </event>
+      <event id="17799">
+        <start>00:30</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>Super-Surprise GHOST-TALK :D</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+	</description>
+        <persons>
+          <person id="99">?</person>
+        </persons>
+	<links />
+      </event>
+    </room>
+    <room name="LAB" />
+    <room name="Kitchen">
+      <event id="5101">
+        <start>09:00</start>
+        <duration>01:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Colazione</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="5102">
+        <start>13:00</start>
+        <duration>02:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Pranzo</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+    </room>
+    <room name="General">
+      <event id="5201">
+        <start>01:00</start>
+        <duration>01:00</duration>
+        <room>General</room>
+	<slug />
+        <title>Conclusione CTF -ESC CTF Team</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="5202">
+        <start>02:00</start>
+        <duration>04:00</duration>
+        <room>General</room>
+	<slug />
+        <title>Sleeping Hackers and Overnight Fun</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="5203">
+        <start>10:00</start>
+        <duration>02:00</duration>
+        <room>General</room>
+	<slug />
+        <title>Assemblea di Chiusura e Premiazione CTF</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="5204">
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>General</room>
+	<slug />
+        <title>Asta</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="5205">
+        <start>15:00</start>
+        <duration>02:00</duration>
+        <room>General</room>
+	<slug />
+        <title>Partenze</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+    </room>
   </day>
 
 </schedule>
