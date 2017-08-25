@@ -71,6 +71,68 @@
 	<links />
       </event>
     </room>
+    <room name="Kitchen">
+      <event id="3101">
+        <start>09:00</start>
+        <duration>02:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Colazione e Rassegna Stampa in compagnia de Lo Schitto</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="3102">
+        <start>13:00</start>
+        <duration>02:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Pranzo</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="3103">
+        <start>17:00</start>
+        <duration>03:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Aperitivo Lungo</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="3104">
+        <start>20:00</start>
+        <duration>02:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Cena</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+    </room>
     <room name="General">
       <event id="3201">
         <start>00:00</start>

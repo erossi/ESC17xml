@@ -133,4 +133,5 @@
 	<links />
       </event>
     </room>
+    <room name="General" />
   </day>
