@@ -8,7 +8,7 @@
     <start>2017-08-30</start>
     <end>2017-09-03</end>
     <days>5</days>
-    <day_change>09:00:00</day_change>
+    <day_change>00:00:00</day_change>
     <timeslot_duration>00:30:00</timeslot_duration>
   </conference>
 
