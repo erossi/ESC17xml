@@ -73,6 +73,21 @@
     </room>
     <room name="Kitchen">
       <event id="2101">
+        <start>09:00</start>
+        <duration>02:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Colazione</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="2102">
         <start>13:00</start>
         <duration>02:00</duration>
         <room>Kitchen</room>
@@ -87,12 +102,12 @@
 	<persons />
 	<links />
       </event>
-      <event id="2102">
-        <start>18:00</start>
-        <duration>02:00</duration>
+      <event id="2103">
+        <start>17:00</start>
+        <duration>03:00</duration>
         <room>Kitchen</room>
 	<slug />
-        <title>Aperitivo di Benvenuto</title>
+        <title>Aperitivo Lungo</title>
         <subtitle/>
 	<track />
 	<type />
@@ -102,7 +117,7 @@
 	<persons />
 	<links />
       </event>
-      <event id="2103">
+      <event id="2104">
         <start>20:00</start>
         <duration>02:00</duration>
         <room>Kitchen</room>
