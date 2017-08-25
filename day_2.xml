@@ -1,0 +1,74 @@
+  <day index="2" date="2017-08-31">
+    <room name="Talk">
+      <event id="17501">
+        <start>18:30</start>
+        <duration>01:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>Stato dell'arte della progettazione con strumenti Opensource</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		Una panoramica puntuale sulle soluzioni CAD/CAE Open Source: stato dell'arte, pregi, limiti e prospettive. Le soluzioni proposte saranno tutte di tipo professionale e multi-piattaforma, ovvero disponibili allo stesso modo per tutti i sistemi operativi più diffusi (Linux, Mac, Windows).
+	</description>
+        <persons>
+          <person id="17501">Giovanni Longo</person>
+        </persons>
+	<links />
+      </event>
+      <event id="17502">
+        <start>22:00</start>
+        <duration>01:30</duration>
+        <room>Talk</room>
+	<slug />
+	<title>FreeCAD for Hackers & Makers: stumenti e mods</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		FreeCAD è il "coltellino svizzero" delle piattaforme di progettazione 3D parametriche, in questo intervento faremo una panoramica su tutti gli strumenti che mette a disposizione in ambito di fabbricazione digitale e daremo uno sguardo alle infinite possibilità di personalizzazione e hacking.
+	</description>
+        <persons>
+          <person id="17501">Giovanni Longo</person>
+        </persons>
+	<links />
+      </event>
+    </room>
+    <room name="LAB">
+      <event id="2001">
+        <start>10:00</start>
+        <duration>03:00</duration>
+        <room>LAB</room>
+	<slug />
+        <title>Soldering, Arduino, Assemblaggio 3D-Printer RepRap</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="2002">
+        <start>15:00</start>
+        <duration>03:00</duration>
+        <room>LAB</room>
+	<slug />
+        <title>Soldering, 3D-Printing, Browser Extensions, A-Frame</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+    </room>
+  </day>

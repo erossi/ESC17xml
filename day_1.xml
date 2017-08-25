@@ -1,0 +1,104 @@
+  <day index="1" date="2017-08-30">
+    <room name="Talk">
+      <event id="17504">
+        <start>18:30</start>
+        <duration>01:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>Inkscape: Grafica 2D vettoriale con Software Libero</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+        <description>Inkscape è un software libero di grafica vettoriale basato sul formato Scalable Vector Graphics (SVG).</description>
+        <persons>
+          <person id="17504">Stefano Branca</person>
+        </persons>
+	<links />
+      </event>
+      <event id="17503">
+        <start>22:00</start>
+        <duration>01:30</duration>
+        <room>Talk</room>
+	<slug />
+	<title>Fusion360: software 3D CAD/CAM in cloud</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		Un software cloud non-libero ma gratuito per studenti, hobbisti e startup; la sua conoscenza può essere utile come termine di paragone con il software libero parametrico FreeCAD, e al giorno d'oggi è molto utilizzato nei Fab Lab per la progettazione 3D; integra moduli professionali CAD/CAM.	
+	</description>
+        <persons>
+          <person id="17504">Stefano Branca</person>
+        </persons>
+	<links />
+      </event>
+    </room>
+    <room name="LAB">
+      <event id="1001">
+        <start>16:00</start>
+        <duration>04:00</duration>
+        <room>LAB</room>
+	<slug />
+        <title>Soldering, Assemblaggio 3D-Printer RepRap</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+    </room>
+    <room name="Kitchen">
+      <event id="1101">
+        <start>13:00</start>
+        <duration>02:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Pranzo</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="1102">
+        <start>18:00</start>
+        <duration>02:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Aperitivo di Benvenuto</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="1103">
+        <start>20:00</start>
+        <duration>02:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Cena</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+    </room>
+  </day>

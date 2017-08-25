@@ -1,0 +1,74 @@
+  <day index="3" date="2017-09-01">
+    <room name="Talk">
+      <event id="17707">
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>Pi-hole: A black hole for Internet advertisements</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		Pi-Hole è un progetto nasce con l’intento di bloccare la pubblicità a livello di DNS e incorpora anche una DNS Cache. Un progetto nato per Raspberri Pi ma che può essere installato su qualsiasi altra distribuzione Debian Like ha il vantaggio di bloccare tutto il traffico prodotto dagli ADS nella tua rete eliminando quindi l’utilizzo di plugin per il browser come AdBlock, uBlock e la possibilità di usare i filtri anche nei dispositivi mobile senza effettuare modifiche dedicate. Basti a pensare che su iOS o Android è possibile bloccare la pubblicità nei principali browser ma all’interno delle applicazioni bisognerebbe avere i permessi di root per eliminare le pubblicità, con Pi-Hole diventa tutto più facile. Pi-Hole è facilissimo da installare, permette di personalizzare i server DNS e ha un comodo pannello di controllo web dal quale è possibile visualizzare il totale delle richieste DNS, le pubblicità bloccate ma ovviamente anche personalizzare la Whitelist e Blacklist. Inoltre sul sito ufficiale vi sono diverse guide e personalizzazioni. È un progetto Open Source, disponibile su GitHub.
+	</description>
+        <persons>
+          <person id="17707">Fabio "Ryuw" Carletti</person>
+        </persons>
+	<links />
+      </event>
+      <event id="1526">
+        <start>12:30</start>
+        <duration>00:30</duration>
+        <room>Talk</room>
+	<slug />
+        <title>Hardening Debian buster with grsecurity</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description>
+		Grsecurity is an extensive security enhancement to the Linux kernel that defends against a wide range of security threats through intelligent access control, memory corruption-based exploit prevention, and a host of other system hardening that generally require no configuration.
+	</description>
+        <persons>
+          <person id="17707">Fabio "Ryuw" Carletti</person>
+        </persons>
+	<links />
+      </event>
+    </room>
+    <room name="LAB">
+      <event id="3001">
+        <start>10:00</start>
+        <duration>03:00</duration>
+        <room>LAB</room>
+	<slug />
+        <title>Soldering, Arduino 101, 3D-Printing</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="3002">
+        <start>15:00</start>
+        <duration>05:00</duration>
+        <room>LAB</room>
+	<slug />
+        <title>Soldering, KiCAD EDA, 3D Printing</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+    </room>
+  </day>
