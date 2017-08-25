@@ -11,6 +11,8 @@ Lab: Lab schedule
 
 General: the rest.
 
+Kitchen:
+
 ### Talk's event ids
 
 on the web page the id are in the form of (looks like) YY[S|T]nn,
@@ -21,7 +23,7 @@ T -> 7
 
 so the talk id 17S03 become 17503 and the talk id 17T05 becomes 17705.
 
-### Room's event ids
+### Lab room's event ids
 
 day 1 - 1001, 1002, 1003 ...
 
@@ -29,7 +31,14 @@ day 2 - 2001, 2002, 2003 ...
 
 ...
 
+### Kitchen events id
+
+day 1 - 1101, 1102 ...
+
+day 2 - 2101, 2102 ...
+
 ### Person ids
 
 same id of the 1st talk the preson keep, but any other way is acceptable.
 
+### 

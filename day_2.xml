@@ -24,7 +24,7 @@
         <duration>01:30</duration>
         <room>Talk</room>
 	<slug />
-	<title>FreeCAD for Hackers & Makers: stumenti e mods</title>
+	<title>FreeCAD for Hackers and Makers: stumenti e mods</title>
         <subtitle/>
 	<track />
 	<type />
@@ -61,6 +61,53 @@
         <room>LAB</room>
 	<slug />
         <title>Soldering, 3D-Printing, Browser Extensions, A-Frame</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+    </room>
+    <room name="Kitchen">
+      <event id="2101">
+        <start>13:00</start>
+        <duration>02:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Pranzo</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="2102">
+        <start>18:00</start>
+        <duration>02:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Aperitivo di Benvenuto</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="2103">
+        <start>20:00</start>
+        <duration>02:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Cena</title>
         <subtitle/>
 	<track />
 	<type />

@@ -68,8 +68,101 @@
 	<links />
       </event>
     </room>
+    <room name="Kitchen">
+      <event id="1101">
+        <start>13:00</start>
+        <duration>02:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Pranzo</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="1102">
+        <start>18:00</start>
+        <duration>02:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Aperitivo di Benvenuto</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="1103">
+        <start>20:00</start>
+        <duration>02:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Cena</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+    </room>
+    <room name="General">
+      <event id="1201">
+        <start>10:00</start>
+        <duration>05:00</duration>
+        <room>General</room>
+	<slug />
+        <title>Arrivi</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="1202">
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>General</room>
+	<slug />
+        <title>Assemblea di Apertura e Kick-off</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="1203">
+        <start>23:30</start>
+        <duration>04:30</duration>
+        <room>General</room>
+	<slug />
+        <title>Sleeping Hackers e Overnight Fun</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+    </room>
   </day>
-
   <day index="2" date="2017-08-31">
     <room name="Talk">
       <event id="17501">
@@ -96,7 +189,7 @@
         <duration>01:30</duration>
         <room>Talk</room>
 	<slug />
-	<title>FreeCAD for Hackers & Makers: stumenti e mods</title>
+	<title>FreeCAD for Hackers and Makers: stumenti e mods</title>
         <subtitle/>
 	<track />
 	<type />
@@ -143,8 +236,54 @@
 	<links />
       </event>
     </room>
+    <room name="Kitchen">
+      <event id="2101">
+        <start>13:00</start>
+        <duration>02:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Pranzo</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="2102">
+        <start>18:00</start>
+        <duration>02:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Aperitivo di Benvenuto</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="2103">
+        <start>20:00</start>
+        <duration>02:00</duration>
+        <room>Kitchen</room>
+	<slug />
+        <title>Cena</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+    </room>
   </day>
-
   <day index="3" date="2017-09-01">
     <room name="Talk">
       <event id="17707">
@@ -219,10 +358,9 @@
       </event>
     </room>
   </day>
-
   <day index="4" date="2017-09-02">
   </day>
-
   <day index="5" date="2017-09-03">
   </day>
+
 </schedule>

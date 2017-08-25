@@ -101,4 +101,51 @@
 	<links />
       </event>
     </room>
+    <room name="General">
+      <event id="1201">
+        <start>10:00</start>
+        <duration>05:00</duration>
+        <room>General</room>
+	<slug />
+        <title>Arrivi</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="1202">
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>General</room>
+	<slug />
+        <title>Assemblea di Apertura e Kick-off</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+      <event id="1203">
+        <start>23:30</start>
+        <duration>04:30</duration>
+        <room>General</room>
+	<slug />
+        <title>Sleeping Hackers e Overnight Fun</title>
+        <subtitle/>
+	<track />
+	<type />
+        <language/>
+	<abstract />
+	<description></description>
+	<persons />
+	<links />
+      </event>
+    </room>
   </day>
