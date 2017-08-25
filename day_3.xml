@@ -38,7 +38,7 @@
         </persons>
 	<links />
       </event>
-      <event id="17T24">
+      <event id="17724">
         <start>15:00</start>
         <duration>00:30</duration>
         <room>Talk</room>
@@ -57,7 +57,7 @@
         </persons>
 	<links />
       </event>
-      <event id="17T12">
+      <event id="17712">
         <start>15:30</start>
         <duration>00:30</duration>
         <room>Talk</room>
@@ -76,7 +76,7 @@
         </persons>
 	<links />
       </event>
-      <event id="17T25">
+      <event id="17725">
         <start>16:00</start>
         <duration>00:30</duration>
         <room>Talk</room>
@@ -88,14 +88,14 @@
         <language/>
 	<abstract />
 	<description>
-		Ask Ubuntu è un sito Q&amp;A (domanda e risposta) che raccoglie gli utenti di questa popolare distribuzione. Tramite un sistema collaborativo ed autogestito, tutti i partecipanti donano il proprio contributo per aiutarsi a vicenda e risolvere problemi o dubbi relativi all'uso di Ubuntu, portando beneficio a tutta la comunità. 
+		Ask Ubuntu è un sito Q&amp;A (domanda e risposta) che raccoglie gli utenti di questa popolare distribuzione. Tramite un sistema collaborativo ed autogestito, tutti i partecipanti donano il proprio contributo per aiutarsi a vicenda e risolvere problemi o dubbi relativi all'uso di Ubuntu, portando beneficio a tutta la comunità.
 	</description>
         <persons>
           <person id="5">Andrea "lazza" Lazzarotto</person>
         </persons>
 	<links />
       </event>
-      <event id="17T13">
+      <event id="17713">
         <start>16:30</start>
         <duration>00:30</duration>
         <room>Talk</room>
@@ -114,7 +114,7 @@
         </persons>
 	<links />
       </event>
-      <event id="17T05">
+      <event id="17705">
         <start>18:00</start>
         <duration>00:30</duration>
         <room>Talk</room>
@@ -133,7 +133,7 @@
         </persons>
 	<links />
       </event>
-      <event id="17T26">
+      <event id="17726">
         <start>18:30</start>
         <duration>00:30</duration>
         <room>Talk</room>
@@ -152,7 +152,7 @@
         </persons>
 	<links />
       </event>
-      <event id="17T10">
+      <event id="17710">
         <start>19:00</start>
         <duration>00:30</duration>
         <room>Talk</room>
@@ -171,7 +171,7 @@
         </persons>
 	<links />
       </event>
-      <event id="17T23">
+      <event id="17723">
         <start>19:30</start>
         <duration>00:30</duration>
         <room>Talk</room>
@@ -190,7 +190,7 @@
         </persons>
 	<links />
       </event>
-      <event id="17T11">
+      <event id="17711">
         <start>22:00</start>
         <duration>00:30</duration>
         <room>Talk</room>
@@ -209,7 +209,7 @@
         </persons>
 	<links />
       </event>
-      <event id="17T15">
+      <event id="17715">
         <start>22:30</start>
         <duration>00:30</duration>
         <room>Talk</room>
@@ -228,7 +228,7 @@
         </persons>
 	<links />
       </event>
-      <event id="17T19">
+      <event id="17719">
         <start>23:00</start>
         <duration>00:30</duration>
         <room>Talk</room>
@@ -247,7 +247,7 @@
         </persons>
 	<links />
       </event>
-      <event id="17T20">
+      <event id="17720">
         <start>23:30</start>
         <duration>00:30</duration>
         <room>Talk</room>
