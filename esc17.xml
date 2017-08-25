@@ -27,7 +27,7 @@
 	<abstract />
         <description>Inkscape è un software libero di grafica vettoriale basato sul formato Scalable Vector Graphics (SVG).</description>
         <persons>
-          <person id="17504">Stefano Branca</person>
+          <person id="2">Stefano Branca</person>
         </persons>
 	<links />
       </event>
@@ -46,7 +46,7 @@
 		Un software cloud non-libero ma gratuito per studenti, hobbisti e startup; la sua conoscenza può essere utile come termine di paragone con il software libero parametrico FreeCAD, e al giorno d'oggi è molto utilizzato nei Fab Lab per la progettazione 3D; integra moduli professionali CAD/CAM.	
 	</description>
         <persons>
-          <person id="17504">Stefano Branca</person>
+          <person id="2">Stefano Branca</person>
         </persons>
 	<links />
       </event>
@@ -180,7 +180,7 @@
 		Una panoramica puntuale sulle soluzioni CAD/CAE Open Source: stato dell'arte, pregi, limiti e prospettive. Le soluzioni proposte saranno tutte di tipo professionale e multi-piattaforma, ovvero disponibili allo stesso modo per tutti i sistemi operativi più diffusi (Linux, Mac, Windows).
 	</description>
         <persons>
-          <person id="17501">Giovanni Longo</person>
+          <person id="3">Giovanni Longo</person>
         </persons>
 	<links />
       </event>
@@ -199,7 +199,7 @@
 		FreeCAD è il "coltellino svizzero" delle piattaforme di progettazione 3D parametriche, in questo intervento faremo una panoramica su tutti gli strumenti che mette a disposizione in ambito di fabbricazione digitale e daremo uno sguardo alle infinite possibilità di personalizzazione e hacking.
 	</description>
         <persons>
-          <person id="17501">Giovanni Longo</person>
+          <person id="3">Giovanni Longo</person>
         </persons>
 	<links />
       </event>

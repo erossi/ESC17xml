@@ -15,7 +15,7 @@
 		Una panoramica puntuale sulle soluzioni CAD/CAE Open Source: stato dell'arte, pregi, limiti e prospettive. Le soluzioni proposte saranno tutte di tipo professionale e multi-piattaforma, ovvero disponibili allo stesso modo per tutti i sistemi operativi più diffusi (Linux, Mac, Windows).
 	</description>
         <persons>
-          <person id="17501">Giovanni Longo</person>
+          <person id="3">Giovanni Longo</person>
         </persons>
 	<links />
       </event>
@@ -34,7 +34,7 @@
 		FreeCAD è il "coltellino svizzero" delle piattaforme di progettazione 3D parametriche, in questo intervento faremo una panoramica su tutti gli strumenti che mette a disposizione in ambito di fabbricazione digitale e daremo uno sguardo alle infinite possibilità di personalizzazione e hacking.
 	</description>
         <persons>
-          <person id="17501">Giovanni Longo</person>
+          <person id="3">Giovanni Longo</person>
         </persons>
 	<links />
       </event>

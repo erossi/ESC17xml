@@ -42,6 +42,6 @@ day 2 - 2101, 2102 ...
 
 ### Person ids
 
-same id of the 1st talk the preson keep, but any other way is acceptable.
+browse the persons.xml
 
 ### 

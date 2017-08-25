@@ -13,7 +13,7 @@
 	<abstract />
         <description>Inkscape è un software libero di grafica vettoriale basato sul formato Scalable Vector Graphics (SVG).</description>
         <persons>
-          <person id="17504">Stefano Branca</person>
+          <person id="2">Stefano Branca</person>
         </persons>
 	<links />
       </event>
@@ -32,7 +32,7 @@
 		Un software cloud non-libero ma gratuito per studenti, hobbisti e startup; la sua conoscenza può essere utile come termine di paragone con il software libero parametrico FreeCAD, e al giorno d'oggi è molto utilizzato nei Fab Lab per la progettazione 3D; integra moduli professionali CAD/CAM.	
 	</description>
         <persons>
-          <person id="17504">Stefano Branca</person>
+          <person id="2">Stefano Branca</person>
         </persons>
 	<links />
       </event>
