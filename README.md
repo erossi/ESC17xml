@@ -2,6 +2,9 @@
 EndSummerCamp Pentabarf XML
 
 ### URL
+
+![qrcode](https://raw.githubusercontent.com/erossi/ESC17xml/master/qr_code.jpg)
+
 https://raw.githubusercontent.com/erossi/ESC17xml/master/esc17.xml
 
 ### About Rooms
